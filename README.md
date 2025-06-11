@@ -7,7 +7,7 @@ A modular React To-Do List app styled with Tailwind CSS and a soothing pastel ae
 - 🔍 **Filtering** (All / Active / Completed)  
 - 🔢 **Sorting** (Newest / Oldest / A→Z / Z→A)  
 - ✏️ **Inline editing** with validation  
-- 🎨 **Pastel theme** with gradient backgrounds and custom fonts  
+- 🎨 **Pastel theme** with custom fonts  
 - 🖌️ **Very aesthetic vibe** for a calm, playful UI  
 - 📏 **Auto-growing task box** up to 20 rem, then scrollable overflow  
 - 📦 **Modular components**:  
