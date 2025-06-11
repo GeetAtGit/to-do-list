@@ -1,4 +1,4 @@
-# Things To-Do
+# To-Do-List
 
 A modular React To-Do List app styled with Tailwind CSS and a soothing pastel aesthetic, featuring:
 
